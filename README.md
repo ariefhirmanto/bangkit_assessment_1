@@ -1,2 +1,2 @@
 # bangkit_assessment_1
-A repostiory for Bangkit first Online Assessment
+A repository for Google Bangkit first Online Assessment
