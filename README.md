@@ -1,5 +1,6 @@
-# Bangkit Assessment
-A repository for Google Bangkit first Online Assessment
+# Assignment #05-W05-First Machine Learning Project - MLCC
+
+A repository for the assignment of Group #1 in Class #4 Cohort Bandung.
 
 ## Team
 [Arief Hirmanto](https://github.com/ariefhirmanto)  |      [Dimas Apeco Putra](https://github.com/dispectra) | [Gusti Triandi Winata](https://github.com/sanggusti)
