@@ -35,8 +35,8 @@ For Chest X-Ray Classification we get results:
 
 For U-Net Image Segmentation we got results:
 
-![](docs/results.png)
-![](docs/iou_metrics.png)
+![](docs/results.PNG)
+![](docs/iou_metrics.PNG)
 
 ## Conclusion
 For Chest X-Ray Classification the model performs pretty good with accuracy on 92% with 40 epochs.
